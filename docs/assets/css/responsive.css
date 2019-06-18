@@ -1,0 +1,1138 @@
+@media (max-width: 1520px){
+	   .descrption_style p {
+    padding: 0px 80px 0px 40px;
+    font-family: 'Rectory';
+    text-align: justify;
+    font-size: 13px;
+}
+
+.this_veuz h1 {
+    position: relative;
+    top: 90px;
+    font-family: 'Rectory';
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.line_who_we_are:after {
+    content: "";
+    position: absolute;
+    width: 50px;
+    height: 2px;
+    background-color: #ed1e53;
+    top: 15px;
+    left: 4cm;
+}
+
+.this_veuz p {
+	left:-40px;
+    position: relative;
+    top: 120px;
+    padding-right: 150px;
+    padding-left: 150px;
+    font-family: 'Rectory';
+    font-size: 12px;
+}
+
+.front_img {
+    right: 9cm;
+}
+
+.live_text {
+    padding: 50px;
+    position: relative !important;
+    left: 41%;
+    top: 0%;
+}
+
+.live_text h2 {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Rectory';
+    position: relative;
+}
+
+.height_box2 img {
+    width: 25%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 65px;
+    left: 100px;
+    opacity: 0.2;
+}
+
+.live_text h1 {
+    color: #fff;
+    font-size: 25px;
+    font-family: 'Rectory';
+    font-weight:bold;
+}
+
+.bg img {
+    width: 80%;
+    position: absolute;
+    top: -10cm;
+    opacity: 0.16;
+    left: 18px;
+}
+
+.bg a h1{
+	font-size:15px;
+}
+
+.logobox_main a img{
+	    padding: 6% 35% 20% 35%;
+}
+
+.innovation_heading h4 {
+    font-size: 25px;
+    font-family: 'Rectory';
+    font-weight: 600;
+        margin-top: -10px;
+}
+
+.front_img img {
+    width: 110%;
+    position: absolute;
+}
+
+.title-decoration--left{
+	font-size:15px;
+}
+
+.caption_imapct p {
+    font-size: 18px;
+    font-family: 'Rectory';
+    margin-top: -50px;
+}
+
+.video_area {
+    position: relative;
+    top: 4cm;
+    left: 2cm;
+}
+
+.video_titile {
+    left: 80px;
+}
+
+.video_para{
+	left:80px;
+}
+
+.video_btn{
+	left:80px;
+}
+
+
+.career_main{
+	left:2cm;
+}
+
+.aftereffect:after{
+	width:15cm;
+}
+
+.career_main a:hover .aftereffect:after{
+	width:17cm;
+}
+ 
+.who_veuz{
+	height:60vh;
+}
+
+.other_menu_area ul a li{
+	padding-left:35px;
+}
+
+.side_socialmedia_icons ul{
+	left:25px;
+}
+
+.clients_para{
+	font-size:2rem;
+}
+
+#quote-carousel{
+	margin-top:7cm;
+}
+
+
+.testimonial_heading{
+    top: 7cm;
+      left: 2cm;
+}
+
+}
+
+
+@media (max-width: 1280px){
+   
+   .btn_more_class{
+   	top:-40px;
+   }
+
+   .descrption_style p{
+   	    padding: 0px 71px 0px 0px;
+   }
+
+   .caption_style h1{
+   	    font-size: 20px;
+    padding-left: 0px;
+
+   }
+
+   .descrption_style{
+   	top:60px;
+   }
+
+   .video_area{
+   	top:3cm;
+   }
+
+  .other_menu_area ul a li{
+   	padding-left:25px;
+   }
+}
+
+
+@media (max-width: 1024px){
+
+   .caption_style{
+    top:0;
+   }
+
+
+   .caption_style{
+    padding-top: 0;
+   }
+
+   .descrption_style{
+    top:15px;
+   }
+
+   .descrption_style{
+    padding:0;
+   }
+
+   .front_img{
+    right:7cm;
+   }
+
+   .this_veuz p {
+    left: -45px;
+    position: relative;
+    top: 75px;
+    padding-right: 100px;
+    padding-left: 50px;
+    font-family: 'Rectory';
+    font-size: 13px;
+}
+
+.this_veuz h1 {
+    position: relative;
+    top: 40px;
+    font-family: 'Rectory';
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.this_veuz h1{
+  left:8px;
+}
+.line_who_we_are:after{
+     top: 12px;
+    left: 120px;
+}
+
+
+.creative img {
+    width: 25%;
+    position: relative;
+    top: 2cm;
+    opacity: 0.2;
+    /* float: right; */
+    left: 6cm;}
+
+    .bar-line, .bar-whitespace{
+      width:15%;
+    }
+
+    .logobox_main a img{
+      padding-top:8%;
+
+    }
+
+    .logobox_main a img{
+      width:110%;
+    }
+
+
+   .caption_style h1{
+    position:relative;
+        left:-15px;
+   }
+
+   .title-decoration--left:after{
+        left: 60px;
+   }
+
+   .title-decoration--left {
+    font-size: 15px;
+    padding: 0;
+        left: -15px;
+    
+}
+
+   .caption_imapct p{
+        font-size: 20px;
+    top: 15px;
+    position: relative;
+    left: 15px;
+   }
+
+   .para_area p{
+    font-size:13px;
+    padding:0;
+   }
+  
+  .txt_area h1{
+    font-size:25px;
+  }
+
+  .innovation_heading h4{
+    margin-top:0px;
+    left: 15px;
+    position: relative;
+  }
+
+
+  .title-decoration3{
+        position: relative;
+    left: -30px;
+  }
+
+    .title-decoration3:after{
+        position: absolute;
+        left:100px;
+
+  }
+
+  .innovation_heading{
+    left:0px;
+  }
+   
+   .what_we_do{
+    left:45px;
+   }
+
+   .caption_imapct{
+    left:0px;
+   }
+
+   .discover_btn{
+    left:35px;
+    top:24cm;
+   }
+
+   .who_veuz{
+    height:50vh;
+   }
+    
+
+    .video_area{
+      left:0;
+    }
+    .video_sec_2{
+      left:0;
+    }
+
+.item p{
+  padding:0;
+}
+
+.testimonial_heading{
+  left:35px;
+}
+
+
+.testimonial_heading p{
+  font-size:23px;
+}
+
+.testimonial_heading{
+  top: 220px;
+}
+
+.item p{
+  font-size:13px;
+}
+
+.testimonials{
+  height:55vh;
+}
+
+.video_titile{
+  font-size:25px;
+}
+
+.video_titile:after{
+  width:150px;
+}
+
+.video_para{
+  font-size:15px;
+  top:160px;
+}
+
+.video_btn{
+  top:5cm;
+}
+
+.video_btn:after{
+  width:70px;
+}
+
+.video_btn:hover:after{
+  width:100px;
+}
+
+.carousel-inner{
+  top:-25px;
+}
+
+.career_main{
+  left:35px;
+}
+
+.text_career{
+  font-size:18px;
+}
+
+.aftereffect:after{
+  width:12cm;
+}
+
+.career_main a:hover .aftereffect:after{
+  width:15cm;
+}
+
+.career_para{
+  font-size:18px;
+}
+
+.career_heading{
+  right:-15px;
+}
+
+.happy_clients{
+  left:35px;
+}
+
+.clients_para{
+  left:35px;
+}
+
+.brands_h1{
+  left:1cm;
+}
+.footer_adress_area{
+  left: 15px;
+}
+
+.side_socialmedia_icons ul{
+  left:-35px;
+}
+
+.footer_logo_area img {
+width: 50%;
+    height: auto;
+    position: relative;
+    float: left;
+    top: 140px;
+    left: 80px;
+}
+
+.footer_adress_area h1{
+  font-size:20px;
+}
+
+.footer_adress_area .adress_paragraph{
+  font-size:12px;
+}
+
+.footer_adress_area .adress_pincode{
+  font-size:12px;
+}
+
+.footer_adress_area .adress_last_area{
+  font-size:12px;
+}
+
+
+.side_socialmedia_icons ul a li{
+  font-size:10px;
+}
+
+.all_rights_reserved h1{
+  font-size:15px;
+}
+
+.other_menu_area ul a li{
+  font-size:15px;
+  padding-left:15px;
+}
+
+.other_menu_area{
+  padding-top:10px;
+}
+
+.call_area ul a li{
+  font-size:18px;
+}
+
+.wtp_txt{
+  font-size:15px;
+}
+
+.mail_txt{
+  font-size:15px;
+}
+
+.wtp_txt2{
+  font-size:15px;
+}
+
+.call_area ul{
+  margin-top:110px;
+}
+
+
+
+
+
+}
+
+
+
+@media (max-width: 1280px){
+  .side_socialmedia_icons ul{
+    left:-25px;
+  }
+}
+
+
+@media (max-width: 667px){
+.humbermenu_main_div{
+  height:50px;
+  z-index:9;
+}
+
+.header__link, .header__toggle{
+  height:20rem;
+  width:5rem;
+}
+
+.logobox_main a img{
+  width:130%;
+}
+
+.logobox_main a img{
+  padding-top:13%;
+}
+
+.socialmedia_icons{
+  display:none;
+}
+
+.bg{
+  display:none;
+}
+
+.bg_right{
+  display:none;
+}
+
+.demo-cont{
+  height:100%;
+}
+
+.more_btn{
+  display:none;
+}
+
+.height_box2{
+      background: #181569e6;
+    height: 120px;
+    width: 100%;
+    position: absolute;
+    z-index: 10;
+    margin-top: -465px;
+    overflow: hidden;
+    right: 0;
+}
+
+.live_text{
+      position: relative !important;
+    left: 25%;
+    top: 0%;
+}
+
+.height_box2 img{
+  display:none;
+}
+
+.live_text{
+  padding:0;
+}
+
+.live_text h2{
+  font-size:15px;
+}
+
+.live_text h1{
+  font-size:18px;
+}
+
+.nab{
+  display:none;
+}
+.demo-cont{
+  height:60vh;
+  background-color:transparent;
+}
+
+.item img{
+  height:65vh;
+}
+
+.caroselheight{
+  height:65vh;
+}
+.creative{
+  display:none;
+}
+
+.caption_style{
+  top:50px;
+}
+
+
+.descrption_style{
+  top:70px;
+}
+
+.caption_style{
+  left:20px;
+}
+
+.descrption_style{
+  left:0;
+}
+
+.descrption_style p{
+     padding-left: 20px;
+    padding-right: 20px;
+}
+
+.this_veuz{
+  left:0
+}
+
+.this_veuz p{
+  padding:0;
+  left:0;
+  right:0;
+  padding-left:20px;
+  padding-right:20px;
+  text-align:justify;
+}
+
+.who_veuz{
+  top: 150px;
+    height: 100vh;
+    background-color: #fbfbfb;
+}
+
+.who_veuz img{
+  top:100px;
+}
+
+.front_img{
+  right:0;
+}
+
+.pad{
+  padding:0;
+}
+
+.icon_area{
+  left:0;
+  font-size:30px;
+}
+
+.txt_area h1{
+  top:-60px;
+}
+
+
+.topz{
+  position:relative;
+  top:140px
+}
+
+.about_area{
+      height: 160vh;
+    top: 150PX;
+}
+
+.para_area{
+      top: 125px;
+    left: 10px;
+    padding-bottom: 30px;
+    padding-right: 80px;
+    padding-left: 60px;
+}
+
+.what_we_do{
+      top: 25px;
+    padding-top: 0;
+}
+
+.innovation_heading{
+  top:90px;
+}
+.caption_imapct{
+  top:215px;
+}
+.our_works{
+  height:120vh;
+}
+
+.video_area{
+  display:none;
+}
+.video_titile{
+  left:0;
+}
+
+.video_para{
+  left:0;
+  top:40px;
+      padding-right: 20px;
+    padding-left: 20px;
+}
+.video_titile{
+  top:30px;
+      padding-right: 20px;
+    padding-left: 20px;
+}
+.video_btn{
+  left:0;
+  top:45px;
+      padding-right: 20px;
+    padding-left: 20px;
+    z-index: 9;
+}
+
+.video_btn:after{
+  width:50px;
+  left:100px;
+      padding-right: 20px;
+    padding-left: 20px;
+}
+
+.video_btn:hover:after {
+  content: "";
+  position: absolute;
+  background-color: #fff;
+  width: 70px;
+  transition: 1s ease;
+}
+
+.video_area3{
+  position:relative;
+  top:3cm;
+  display:block;
+}
+
+.testimonial_heading{
+  left:0;
+}
+
+.testi{
+  display:none;
+}
+.testimonial_heading{
+  top:2cm;
+}
+#quote-carousel{
+
+      margin-top: 4cm;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: justify;
+}
+.testimonial_heading p{
+  font-size:25px;
+      padding-right: 20px;
+    padding-left: 20px;
+}
+
+.testimonial_heading h1{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.item p {
+    font-size: 15px;
+    text-align: justify;
+}
+.testimonials{
+  height:70vh;
+}
+
+.testimonial_heading h1:after{
+  left:140px;
+}
+.testimonial_heading h1:hover:after {
+  content: "";
+  width:70px;
+  transition: 1s ease-in-out;
+}
+
+.display2{
+  display:none;
+}
+
+.disply{
+  display:block;
+}
+
+.career_heading{
+  top:80px;
+  font-size:20px;
+}
+
+.career_heading:after{
+     left: 100px;
+    top: 12px;
+}
+
+.main_div_career{
+  height:90vh;
+}
+
+.main_heading_career {
+    font-size:25px;
+    position: relative;
+    top: 80px;
+    font-family: 'Rectory';
+    font-weight: bold;
+    left: 15px;}
+
+    .career_para {
+    font-size: 20px;
+    font-family: 'Rectory';
+    top: 100px;
+    position: relative;
+    left: 15px;
+}
+
+.career_main{
+  left:15px;
+}
+
+.aftereffect:after{
+  width: 6cm;
+}
+
+.text_career{
+  font-size:15px;
+}
+
+.career_main a:hover .aftereffect:after{
+  width:7cm;
+}
+
+.our_clients{
+  top:60px;
+}
+
+.brands_h1 {
+    left:0px;
+    font-size: 20px;
+    top: 25px;
+        padding-left: 20px;
+    padding-right: 20px;
+}
+
+.happy_clients {
+       left: 0px;
+    font-size: 20px;
+    top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.clients_para {
+    left: 0px;
+    font-size: 15px;
+    top: 35px;
+        padding-right: 20px;
+    padding-left: 20px;
+}
+
+.our_clients {
+    height: 100vh;
+    top: 140px;
+}
+
+.brands_h1:after {
+   left: 100px;
+    top: 12px;
+}
+
+.footer__top__button{
+  min-height:12rem;
+  width:5rem;
+}
+
+.side_socialmedia_icons ul{
+  left:-45px;
+}
+
+.footer_logo_area img {
+    width: 100%;
+    height: auto;
+    position: relative;
+    float: left;
+    top: 180px;
+    left: 0px;
+}
+
+.footer_adress_area{
+  left: 0;
+  top:50px;
+}
+
+.footer_adress_area h1{
+  font-size:15px;
+}
+
+.footer_adress_area .adress_paragraph{
+  font-size:10px;
+}
+
+.footer_adress_area .adress_pincode,.footer_adress_area .adress_last_area{
+  font-size:10px;
+}
+
+.wtp_txt{
+  margin-left:10px;
+   font-size:12px;
+}
+
+.call_area ul a .whtpp{
+  font-size:12px;
+}
+.call_area ul{
+  padding:0;
+
+}
+
+.call_area ul a li{
+  font-size:12px;
+}
+
+.call_area {
+    position: relative;
+    top: -60px;
+}
+
+.mail_txt{
+  font-size:12px;
+  margin-left:10px;
+}
+
+
+.call_area ul a .mobile {
+    margin-left: 0px;
+    font-size: 15px;
+}
+
+.wtp_txt2{
+  font-size:12px;
+  margin-left:10px;
+}
+
+.footer_area{
+  height:360px;
+}
+
+.last_footer_area{
+  height:200px;
+}
+
+.other_menu_area ul{
+  padding-top:0;
+
+}
+
+.other_menu_area{
+        position: relative;
+    left: -40px;
+}
+
+.nav_logo_style img{
+  left:0;
+  width:30%;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 50px;
+    right: 20px;
+    font-size: 40px;
+    margin-left: 50px;
+    color: #fff;
+    z-index: 99;}
+
+
+.padding_area{
+  padding:0;
+  margin:0;
+  margin-top:15px;
+}
+
+.sidenav a {
+    padding: 0px 0px 0px 0px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #ffffff;
+    display: block;
+    transition: 0.3s;
+    text-decoration: none;
+    text-align: center;
+}
+
+.megamenu_area li a{
+  width:100%;
+}
+
+.sidenav_adress_area img{
+  display:none;
+}
+
+.sidenav_adress_area {
+    position: relative;
+    margin-left: 0;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.megamenu_fbarea {
+    list-style: none;
+    position: relative;
+    padding: 0;
+    margin-top: 2.14286rem;
+    display:none;
+}
+
+.megamenu_social_item{
+  margin-right:35px;
+  position: relative;
+    left: 135px;
+}
+
+.megamenu_contact{
+     margin-left: 0px;
+    margin-top: 15px;
+    list-style: none;
+    float:none;
+    text-align:center;
+    display:none;
+}
+
+.megamenu_contact li{
+     margin-left: 0px;
+    margin-top: 15px;
+    list-style: none;
+    float:none;
+    text-align:center;
+}
+.megamenu_number a{
+  font-size:12px;
+}
+
+.btn_more_class{
+  z-index:9;
+}
+
+.line_who_we_are:after{
+     top: 12px;
+    left: 120px;
+}
+
+.title-decoration--left:after {
+    left: 90px;
+}
+
+.title-decoration--left {
+    font-size: 15px;
+    padding: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    left:-35px;
+}
+
+.title-decoration2:after{
+  position: absolute;
+  left:0px;
+}
+
+.title-decoration3{
+  padding-right:20px;
+  padding-left:20px;
+  left: -25px;
+}
+.title-decoration3:after{
+  position: absolute;
+  left:120px;
+}
+
+.this_veuz h1{
+      left: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.line_who_we_are:after{
+  left:150px
+}
+
+.what_we_do{
+  padding-left:20px;
+  padding-right:20px;
+  left:0;
+}
+
+.caption_imapct p{
+  font-size:15px;
+}
+
+.title-decoration2:after{
+ left: 115px;
+    top: 14px;
+}
+
+
+
+
+
+
+
+
+
+}
